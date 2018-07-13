@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shopping-mall.iml" filepath="$PROJECT_DIR$/shopping-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-mall-api/shopping-mall-api.iml" filepath="$PROJECT_DIR$/shopping-mall-api/shopping-mall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-mall-consumer/shopping-mall-consumer.iml" filepath="$PROJECT_DIR$/shopping-mall-consumer/shopping-mall-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-mall-provider/shopping-mall-provider.iml" filepath="$PROJECT_DIR$/shopping-mall-provider/shopping-mall-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-mall-web/shopping-mall-web.iml" filepath="$PROJECT_DIR$/shopping-mall-web/shopping-mall-web.iml" />
     </modules>
   </component>
