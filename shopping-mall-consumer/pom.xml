@@ -11,5 +11,11 @@
 
     <artifactId>shopping-mall-consumer</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.zqb</groupId>
+            <artifactId>shopping-mall-api</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+    </dependencies>
 </project>

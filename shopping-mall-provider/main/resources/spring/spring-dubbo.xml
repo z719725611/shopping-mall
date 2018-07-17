@@ -10,9 +10,12 @@
     <dubbo:application name="${dubbo.application.name}" />
 
     <!-- 注册中心暴露服务地址 -->
-    <dubbo:registry protocol="${dubbo.registry.protocol}" address="${dubbo.registry.address}" />
+    <dubbo:registry timeout="5000000" protocol="${dubbo.registry.protocol}" check="false"
+                    address="${dubbo.registry.address}" version="${dubbo.registry.version}"/>
 
     <!-- 暴露服务 -->
     <dubbo:protocol name="${dubbo.protocol.name}" port="${dubbo.protocol.port}" />
+
+    <dubbo:service ref="accountService" interface="com.zqb.service.AccountService"/>
 
 </beans>

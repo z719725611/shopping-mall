@@ -29,11 +29,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="shopping-mall" target="1.5" />
-      <module name="shopping-mall-api" target="1.5" />
-      <module name="shopping-mall-consumer" target="1.5" />
-      <module name="shopping-mall-provider" target="1.5" />
-      <module name="shopping-mall-web" target="1.5" />
+      <module name="shopping-mall" target="1.8" />
+      <module name="shopping-mall-api" target="1.8" />
+      <module name="shopping-mall-consumer" target="1.8" />
+      <module name="shopping-mall-provider" target="1.8" />
+      <module name="shopping-mall-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
