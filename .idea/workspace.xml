@@ -1,8 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="8c7957d8-7763-40f2-8e77-fd66f2a95dd8" name="Default" comment="">
+    <list default="true" id="8c7957d8-7763-40f2-8e77-fd66f2a95dd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_14_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/ShoppingMallMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/config/ProviderConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/dubbo.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/spring-dubbo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping-mall-api/shopping-mall-api.iml" afterPath="$PROJECT_DIR$/shopping-mall-api/shopping-mall-api.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping-mall-provider/pom.xml" afterPath="$PROJECT_DIR$/shopping-mall-provider/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping-mall-provider/shopping-mall-provider.iml" afterPath="$PROJECT_DIR$/shopping-mall-provider/shopping-mall-provider.iml" />
     </list>
     <ignored path="shopping-mall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,38 +73,51 @@
     <favorites_list name="shopping-mall" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopping-mall-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shopping-mall-provider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShoppingMallMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/ShoppingMallMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProviderConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/config/ProviderConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -75,6 +132,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/Main.java" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/ShoppingMallMain.java" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/dubbo.properties" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/spring-dubbo.xml" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/config/ProviderConfig.java" />
+        <option value="$PROJECT_DIR$/shopping-mall-provider/pom.xml" />
       </list>
     </option>
   </component>
@@ -90,6 +153,9 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -112,7 +178,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -121,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,23 +205,144 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall-provider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall-provider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall-provider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zqb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-mall-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zqb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../myWorkSpace/shopping-mall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopping-mall-api/pom.xml" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shopping-mall-provider/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.provider">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -372,6 +557,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -537,6 +723,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -552,6 +744,17 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zqb.ShoppingMallMain" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="shopping-mall-provider" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.provider" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -568,6 +771,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531473826826</updated>
       <workItem from="1531473830004" duration="1611000" />
+      <workItem from="1531731162413" duration="5774000" />
     </task>
     <task id="LOCAL-00001" summary="配置修改">
       <created>1531474748343</created>
@@ -601,38 +805,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1611000" />
+    <option name="totallyTimeSpent" value="7385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39909297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -651,25 +858,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="270">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding />
         </state>
@@ -680,6 +871,28 @@
         <state relative-caret-position="210">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -699,10 +912,349 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shopping-mall-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.zqb:shopping-mall:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.zqb:shopping-mall:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.zqb:shopping-mall:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="333.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.14.RELEASE/spring-boot-1.5.14.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.zqb:shopping-mall-provider:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.zqb:shopping-mall-provider:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="724.5">com.zqb:shopping-mall-provider:1.0-SNAPSHOT</node>
+            <node x="332.5" y="75.11502192982437">com.alibaba:dubbo:jar:2.5.3</node>
+            <node x="622.0" y="0.0">com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03</node>
+            <node x="870.5" y="0.0">com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="614.5" y="69.0">com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.15.0-GA</node>
+            <node x="626.0" y="138.0">com.alibaba:dubbo:jar:2.5.3/org.jboss.netty:netty:jar:3.2.5.Final</node>
+            <node x="266.0" y="206.99999999999994">org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE</node>
+            <node x="603.5" y="206.99999999999994">org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot:jar:1.5.14.RELEASE</node>
+            <node x="881.5" y="206.99999999999994">org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot:jar:1.5.14.RELEASE/org.springframework:spring-context:jar:4.3.18.RELEASE</node>
+            <node x="273.0" y="724.5">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE</node>
+            <node x="553.0" y="351.11502192982437">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE</node>
+            <node x="865.0" y="275.99999999999994">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="1126.0" y="275.99999999999994">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31/org.apache.tomcat:tomcat-annotations-api:jar:8.5.31</node>
+            <node x="873.0" y="344.99999999999994">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="845.0" y="413.99999999999994">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="581.0" y="558.1150219298244">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
+            <node x="885.0" y="482.99999999999994">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="884.5" y="552.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="898.0" y="621.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.1</node>
+            <node x="586.0" y="724.5">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2</node>
+            <node x="863.5" y="690.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="887.5" y="759.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
+            <node x="605.5" y="862.5">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE</node>
+            <node x="894.0" y="828.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE/org.springframework:spring-aop:jar:4.3.18.RELEASE</node>
+            <node x="887.0" y="897.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE/org.springframework:spring-beans:jar:4.3.18.RELEASE</node>
+            <node x="592.5" y="966.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-webmvc:jar:4.3.18.RELEASE</node>
+            <node x="871.0" y="966.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-webmvc:jar:4.3.18.RELEASE/org.springframework:spring-expression:jar:4.3.18.RELEASE</node>
+            <node x="298.0" y="967.8125">org.springframework.boot:spring-boot-test:jar:1.5.14.RELEASE</node>
+            <node x="289.5" y="1207.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE</node>
+            <node x="551.0" y="1138.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE</node>
+            <node x="879.0" y="1035.0">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="1160.5" y="1000.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="1175.5" y="1069.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="886.5" y="1104.0">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="893.0" y="1173.0">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="878.0" y="1242.0">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="604.5" y="1207.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework:spring-core:jar:4.3.18.RELEASE</node>
+            <node x="608.5" y="1276.5">org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25">
+              <point x="107.0" y="10.875" />
+              <point x="845.0" y="1256.5" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework:spring-core:jar:4.3.18.RELEASE">
+              <point x="79.0" y="-0.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-webmvc:jar:4.3.18.RELEASE">
+              <point x="95.5" y="11.600000000000023" />
+              <point x="551.0" y="980.5" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="107.0" y="3.625" />
+              <point x="845.0" y="1187.5" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="com.alibaba:dubbo:jar:2.5.3" target="com.alibaba:dubbo:jar:2.5.3/org.jboss.netty:netty:jar:3.2.5.Final">
+              <point x="36.0" y="9.666666666666657" />
+              <point x="471.0" y="99.281688596491" />
+              <point x="551.0" y="152.5" />
+              <point x="-32.0" y="-0.0" />
+            </edge>
+            <edge source="com.zqb:shopping-mall-provider:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE">
+              <point x="93.0" y="-0.0" />
+              <point x="-95.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+              <point x="105.0" y="-9.666666666666686" />
+              <point x="845.0" y="290.49999999999994" />
+              <point x="-80.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.1">
+              <point x="77.0" y="9.666666666666629" />
+              <point x="765.0" y="582.281688596491" />
+              <point x="845.0" y="635.5" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE">
+              <point x="79.0" y="-9.666666666666742" />
+              <point x="471.0" y="1212.3333333333333" />
+              <point x="-107.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11">
+              <point x="107.0" y="-10.875" />
+              <point x="845.0" y="1049.5" />
+              <point x="-66.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31/org.apache.tomcat:tomcat-annotations-api:jar:8.5.31">
+              <point x="80.5" y="-0.0" />
+              <point x="-93.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE/org.springframework:spring-aop:jar:4.3.18.RELEASE">
+              <point x="52.5" y="-7.25" />
+              <point x="765.0" y="869.75" />
+              <point x="845.0" y="842.5" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.yaml:snakeyaml:jar:1.17">
+              <point x="79.0" y="9.666666666666742" />
+              <point x="471.0" y="1231.6666666666667" />
+              <point x="551.0" y="1291.0" />
+              <point x="-49.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2/com.fasterxml.jackson.core:jackson-core:jar:2.8.10">
+              <point x="72.0" y="7.25" />
+              <point x="765.0" y="746.25" />
+              <point x="845.0" y="773.5" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE">
+              <point x="95.5" y="5.7999999999999545" />
+              <point x="551.0" y="877.0" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31">
+              <point x="105.0" y="-0.0" />
+              <point x="845.0" y="359.49999999999994" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE">
+              <point x="95.5" y="-11.600000000000023" />
+              <point x="-105.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-webmvc:jar:4.3.18.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-webmvc:jar:4.3.18.RELEASE/org.springframework:spring-expression:jar:4.3.18.RELEASE">
+              <point x="65.5" y="-0.0" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="com.zqb:shopping-mall-provider:1.0-SNAPSHOT" target="com.alibaba:dubbo:jar:2.5.3">
+              <point x="93.0" y="-11.600000000000023" />
+              <point x="266.0" y="89.61502192982437" />
+              <point x="-36.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final">
+              <point x="95.5" y="-5.7999999999999545" />
+              <point x="551.0" y="572.6150219298244" />
+              <point x="-77.0" y="-0.0" />
+            </edge>
+            <edge source="com.alibaba:dubbo:jar:2.5.3" target="com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03">
+              <point x="36.0" y="-9.666666666666671" />
+              <point x="471.0" y="79.94835526315774" />
+              <point x="551.0" y="14.5" />
+              <point x="-36.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot:jar:1.5.14.RELEASE">
+              <point x="102.5" y="-0.0" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.22">
+              <point x="66.5" y="7.25" />
+              <point x="1046.0" y="1056.75" />
+              <point x="1126.0" y="1084.0" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE/org.springframework:spring-beans:jar:4.3.18.RELEASE">
+              <point x="52.5" y="7.25" />
+              <point x="765.0" y="884.25" />
+              <point x="845.0" y="911.5" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25">
+              <point x="107.0" y="-3.625" />
+              <point x="845.0" y="1118.5" />
+              <point x="-59.0" y="-0.0" />
+            </edge>
+            <edge source="com.zqb:shopping-mall-provider:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-test:jar:1.5.14.RELEASE">
+              <point x="93.0" y="5.7999999999999545" />
+              <point x="266.0" y="982.3125" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="77.0" y="-0.0" />
+              <point x="765.0" y="572.6150219298244" />
+              <point x="845.0" y="566.5" />
+              <point x="-61.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="77.0" y="-9.666666666666629" />
+              <point x="765.0" y="562.9483552631577" />
+              <point x="845.0" y="497.49999999999994" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot:jar:1.5.14.RELEASE/org.springframework:spring-context:jar:4.3.18.RELEASE">
+              <point x="54.5" y="-0.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="com.zqb:shopping-mall-provider:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-autoconfigure:jar:1.5.14.RELEASE">
+              <point x="93.0" y="-5.7999999999999545" />
+              <point x="-102.5" y="-0.0" />
+            </edge>
+            <edge source="com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03" target="com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03/commons-logging:commons-logging:jar:1.1.1">
+              <point x="36.0" y="-0.0" />
+              <point x="-75.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0">
+              <point x="72.0" y="-7.25" />
+              <point x="765.0" y="731.75" />
+              <point x="845.0" y="704.5" />
+              <point x="-82.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.14.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11">
+              <point x="66.5" y="-7.25" />
+              <point x="1046.0" y="1042.25" />
+              <point x="1126.0" y="1015.0" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.2">
+              <point x="95.5" y="-0.0" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.14.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.14.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31">
+              <point x="105.0" y="9.666666666666686" />
+              <point x="-100.5" y="-0.0" />
+            </edge>
+            <edge source="com.zqb:shopping-mall-provider:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter:jar:1.5.14.RELEASE">
+              <point x="93.0" y="11.600000000000023" />
+              <point x="266.0" y="1222.0" />
+              <point x="-79.0" y="-0.0" />
+            </edge>
+            <edge source="com.alibaba:dubbo:jar:2.5.3" target="com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.15.0-GA">
+              <point x="36.0" y="-0.0" />
+              <point x="471.0" y="89.61502192982437" />
+              <point x="551.0" y="83.5" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="153.0" y="37.0" />
+          <SelectedNodes>
+            <node>com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/spring-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/resources/spring/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.18.RELEASE/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/config/ProviderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/main/java/com/zqb/ShoppingMallMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-api/com.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping-mall-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -759,7 +1311,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>shopping-mall</last-edited>
+          <last-edited>shopping-mall-provider</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -783,6 +1335,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.alibaba:dubbo:2.5.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
