@@ -6,8 +6,12 @@
 	http://code.alibabatech.com/schema/dubbo
 	http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
+    <!-- 提供方应用信息，用于计算依赖关系 -->
+    <dubbo:application name="${dubbo.application.name}" />
     <!--使用zookeeper注册中心服务地址 : dictionary-->
-    <dubbo:registry id="consumerRegistry" timeout="5000000" address="${dubbo.registry.address}" version="${dubbo.registry.version}" check="false"/>
+    <dubbo:registry timeout="5000000" address="${dubbo.registry.address}" version="${dubbo.registry.version}" check="false"/>
 
-    <dubbo:reference registry="consumerRegistry" id="dictionaryCategoryService" interface="com.zqb.service.AccountService" version="${dubbo.registry.version}"  check="false"/>
+    <!--<dubbo:reference registry="consumerRegistry" id="accountService" interface="com.zqb.service.AccountService" version="${dubbo.registry.version}"  check="false"/>-->
+    <!--<dubbo:reference registry="consumerRegistry" id="goodsService" interface="com.zqb.service.GoodsService" version="${dubbo.registry.version}"  check="false"/>-->
+    <dubbo:reference id="demoService" interface="com.zqb.service.GoodsService" />
 </beans>

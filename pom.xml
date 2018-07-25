@@ -16,6 +16,7 @@
     </properties>
 
     <dependencies>
+        <!--dubbo start-->
         <dependency>
             <!--dubbo不排除spring会导致jar包冲突-->
             <groupId>com.alibaba</groupId>
@@ -28,6 +29,19 @@
             </exclusions>
             <version>2.5.3</version>
         </dependency>
+        <dependency>
+            <groupId>com.101tec</groupId>
+            <artifactId>zkclient</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+            </exclusions>
+            <version>0.10</version>
+        </dependency>
+        <!--dubbo end-->
+        <!--spring start-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>
@@ -53,16 +67,19 @@
             <artifactId>spring-boot-starter-security</artifactId>
             <version>${springboot.version}</version>
         </dependency>
+        <!--dubbo end-->
+        <!--mybatis start-->
         <dependency>
-            <groupId>com.101tec</groupId>
-            <artifactId>zkclient</artifactId>
-            <version>0.10</version>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.1.1</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.38</version>
         </dependency>
+        <!--mybatis end-->
     </dependencies>
 
     <build>

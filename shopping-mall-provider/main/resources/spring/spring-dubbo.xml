@@ -16,6 +16,14 @@
     <!-- 暴露服务 -->
     <dubbo:protocol name="${dubbo.protocol.name}" port="${dubbo.protocol.port}" />
 
-    <dubbo:service ref="accountService" interface="com.zqb.service.AccountService"/>
+    <!--<dubbo:service ref="accountService" interface="com.zqb.service.AccountService"/>-->
+
+    <!--<dubbo:service ref="goodsService" interface="com.zqb.service.GoodsService"/>-->
+
+    <!-- 声明需要暴露的服务接口 -->
+    <dubbo:service interface="com.zqb.service.GoodsService" ref="goodsService" />
+
+    <!-- 和本地bean一样实现服务 -->
+    <bean id="goodsService" class="com.zqb.service.impl.GoodsServiceImpl" />
 
 </beans>
