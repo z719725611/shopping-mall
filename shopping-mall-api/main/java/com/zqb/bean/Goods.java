@@ -19,6 +19,15 @@ public class Goods implements Serializable {
 
     private static final long serialVersionUID = -9150450742086161924L;
 
+    public Goods(String goodsName, int goodsPrice, int totalNumber) {
+        this.goodsName = goodsName;
+        this.goodsPrice = goodsPrice;
+        this.totalNumber = totalNumber;
+    }
+
+    public Goods() {
+    }
+
     private String goodsID;
 
     private String goodsName;

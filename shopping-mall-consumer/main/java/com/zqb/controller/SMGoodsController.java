@@ -34,7 +34,7 @@ public class SMGoodsController {
     @ResponseBody
     public ReturnObject insertGoods() throws BaseException {
         ReturnObject ro = new ReturnObject();
-        Goods goods = new Goods();
+        Goods goods = new Goods("商品1", 100, 50);
         goodsService.insertGoods(goods);
         ro.setSuccess(true);
         return ro;
