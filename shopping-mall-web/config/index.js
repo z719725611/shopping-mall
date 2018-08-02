@@ -3,6 +3,7 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
+const project_config = require('./project.js'); // 在配置生成路径时需要project_config中的相关信息，故预先导入
 
 module.exports = {
   dev: {
@@ -15,12 +16,12 @@ module.exports = {
     // Various Dev Server settings
     host: 'localhost', // can be overwritten by process.env.HOST
     port: 8080, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
-    autoOpenBrowser: false,
+    autoOpenBrowser: true,
     errorOverlay: true,
     notifyOnErrors: true,
     poll: false, // https://webpack.js.org/configuration/dev-server/#devserver-watchoptions-
 
-    
+
     /**
      * Source Maps
      */
@@ -38,18 +39,19 @@ module.exports = {
 
   build: {
     // Template for index.html
-    index: path.resolve(__dirname, '../dist/index.html'),
+    index: path.resolve(__dirname, project_config.publishWebServiceResourcePath + 'html/vue/index.html'),
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'static',
+    assetsRoot: path.resolve(__dirname, project_config.publishWebServiceResourcePath),// 公共资源地址
+    assetsSubDirectory: './static/vue/',// 子文件夹前缀 // 在webpack2中编译需要加上后缀/ ，否则会报操作错误Error
+    assetsStaticRoot: path.resolve(__dirname, project_config.publishWebServiceResourcePath + 'static'),// 公共资源地址
+    assetsAccessDirectory: './vue/',
     assetsPublicPath: '/',
 
     /**
      * Source Maps
      */
-
-    productionSourceMap: true,
+    productionSourceMap: false,
     // https://webpack.js.org/configuration/devtool/#production
     devtool: '#source-map',
 
