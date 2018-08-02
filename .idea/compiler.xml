@@ -25,7 +25,6 @@
         <module name="shopping-mall-api" />
         <module name="shopping-mall-consumer" />
         <module name="shopping-mall-provider" />
-        <module name="shopping-mall-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

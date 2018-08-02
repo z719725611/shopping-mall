@@ -62,6 +62,11 @@
             <artifactId>spring-boot-starter</artifactId>
             <version>${springboot.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+            <version>${springboot.version}</version>
+        </dependency>
         <!--<dependency>-->
             <!--<groupId>org.springframework.boot</groupId>-->
             <!--<artifactId>spring-boot-starter-security</artifactId>-->
@@ -98,7 +103,6 @@
     </build>
 
     <modules>
-        <module>shopping-mall-web</module>
         <module>shopping-mall-provider</module>
         <module>shopping-mall-api</module>
         <module>shopping-mall-consumer</module>
