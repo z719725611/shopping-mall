@@ -2,7 +2,7 @@
 
 let name = 'shopping-mall-web';
 let publishWebServiceName = 'shopping-mall-consumer';
-let publishWebServiceResourcePath = '../../' + publishWebServiceName + '/target/ROOT/WEB-INF/classes/';
+let publishWebServiceResourcePath = '../../' + publishWebServiceName + '/src/main/resources/static/';
 
 module.exports = {
     name: name, // 项目名：multi

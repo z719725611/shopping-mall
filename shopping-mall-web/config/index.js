@@ -39,12 +39,12 @@ module.exports = {
 
   build: {
     // Template for index.html
-    index: path.resolve(__dirname, project_config.publishWebServiceResourcePath + 'html/vue/index.html'),
+    index: path.resolve(__dirname, project_config.publishWebServiceResourcePath + 'index.html'),
 
     // Paths
     assetsRoot: path.resolve(__dirname, project_config.publishWebServiceResourcePath),// 公共资源地址
-    assetsSubDirectory: './static/vue/',// 子文件夹前缀 // 在webpack2中编译需要加上后缀/ ，否则会报操作错误Error
-    assetsStaticRoot: path.resolve(__dirname, project_config.publishWebServiceResourcePath + 'static'),// 公共资源地址
+    assetsSubDirectory: './static/',// 子文件夹前缀 // 在webpack2中编译需要加上后缀/ ，否则会报操作错误Error
+    assetsStaticRoot: path.resolve(__dirname, project_config.publishWebServiceResourcePath),// 公共资源地址
     assetsAccessDirectory: './vue/',
     assetsPublicPath: '/',
 
