@@ -21,6 +21,11 @@
           登 录
         </el-button>
       </el-form-item>
+      <el-form-item>
+        <el-button type="primary" style="width:100%;" id="camera" @click.native.prevent="gotoAuth">
+          人 脸 识 别
+        </el-button>
+      </el-form-item>
     </el-form>
   </div>
 </template>
@@ -52,22 +57,14 @@
         loading: false
       };
     },
+
     methods: {
       handleLogin() {
-        this.$refs.loginForm.validate((valid) => {
-          if (valid) {
-            this.loading = true;
-            this.$store.dispatch('LoginByUsername', this.loginForm).then(() => {
-              this.loading = false;
-            this.$router.push({ path: '/' });
-          }).catch(() => {
-              this.loading = false;
-          });
-            return true;
-          }
-          console.log('error submit!!');
-        return false;
-      });
+
+      },
+
+      gotoAuth() {
+        this.$router.push({ path: '/videoLogin' })
       }
     }
   };

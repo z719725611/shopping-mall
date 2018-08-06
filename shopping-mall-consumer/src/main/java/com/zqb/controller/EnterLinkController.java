@@ -26,9 +26,9 @@ public class EnterLinkController {
      * @return ModelAndView
      */
     @RequestMapping(value = "/goToMdDesigner",method = RequestMethod.GET)
-    public String goToMdDesigner() {
-//        ModelAndView mv = new ModelAndView();
-//        mv.setViewName("vue/index");
-        return "index";
+    public ModelAndView goToMdDesigner() {
+        ModelAndView mv = new ModelAndView();
+        mv.setViewName("index");
+        return mv;
     }
 }
