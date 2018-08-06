@@ -1,0 +1,25 @@
+//design页面input框下方空白样式覆盖
+.design-class {
+  .el-form-item {
+    margin-bottom: 0px;
+  }
+}
+
+//复制按钮样式设置
+.common_icon16_addColor, .common_icon16_delColor {
+  display: block;
+  width: 18px;
+  height: 18px;
+  background: url(https://cdns1.dajiashequ.com/resources/v1/images/00efed0b.common_controlsContainerForm_icon18.png?v=2015.10.28) no-repeat;
+  cursor: pointer;
+  float: left;
+  margin-left: 5px;
+}
+.common_icon16_delColor {
+  background-position: -18px 0;
+}
+.copy-btn {
+  float: right;
+  margin-top: -15px;
+  display: none;
+}
