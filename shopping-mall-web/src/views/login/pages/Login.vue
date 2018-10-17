@@ -22,6 +22,11 @@
         </el-button>
       </el-form-item>
       <el-form-item>
+        <el-button type="primary" style="width:100%;" @click.native.prevent="register">
+          注 册
+        </el-button>
+      </el-form-item>
+      <el-form-item>
         <el-button type="primary" style="width:100%;" id="camera" @click.native.prevent="gotoAuth">
           人 脸 识 别
         </el-button>
@@ -65,13 +70,17 @@
 
       gotoAuth() {
         this.$router.push({ path: '/videoLogin' })
+      },
+
+      register() {
+        this.$router.push({ path: '/register' })
       }
     }
   };
 </script>
 
 <style rel="stylesheet/scss" lang="scss">
-  @import "../../styles/mixin.scss";
+  @import "../../../styles/mixin";
   $bg:#2d3a4b;
   $dark_gray:#889aa4;
   $light_gray:#eee;
@@ -134,20 +143,6 @@
       background: rgba(0, 0, 0, 0.1);
       border-radius: 5px;
       color: #454545;
-    }
-    .show-pwd {
-      position: absolute;
-      right: 10px;
-      top: 7px;
-      font-size: 16px;
-      color: $dark_gray;
-      cursor: pointer;
-      user-select:none;
-    }
-    .thirdparty-button{
-      position: absolute;
-      right: 35px;
-      bottom: 28px;
     }
   }
 </style>

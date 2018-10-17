@@ -1,7 +1,8 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import login from '../views/login/Login.vue';
-import videoLogin from '../views/login/VideoLogin.vue';
+import login from '../views/login/pages/Login.vue';
+import videoLogin from '../views/login/pages/VideoLogin.vue';
+import register from '../views/login/pages/Register.vue';
 
 Vue.use(Router)
 
@@ -16,6 +17,11 @@ export default new Router({
       path: '/videoLogin',
       name: 'videoLogin',
       component: videoLogin
+    },
+    {
+      path: '/register',
+      name: 'register',
+      component: register
     }
   ]
 })

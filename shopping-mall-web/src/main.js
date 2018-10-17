@@ -8,6 +8,7 @@ import './styles/sidebar.scss';
 import main from './App.vue';
 
 import router from './router';
+import './mock';
 import SvgIcon from './components/SvgIcon/index';
 import './assets/iconfont/iconfont';
 
