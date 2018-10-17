@@ -1,6 +1,6 @@
 <template>
   <div class="register-container">
-    <el-form autoComplete="on" label-position="left" label-width="0px" ref="registerForm" :rules="registerRules"
+    <el-form status-icon label-position="left" label-width="0px" ref="registerForm" :rules="registerRules"
              class="card-box register-form" :model="registerForm">
       <h3 class="title">账号注册</h3>
       <el-form-item prop="userName">
@@ -13,14 +13,14 @@
         <span class="svg-container">
           <svg-icon icon-class="mima"></svg-icon>
         </span>
-        <el-input name="password" type="password" @keyup.enter.native="handleLogin" v-model="registerForm.password" autoComplete="on"
+        <el-input name="password" type="password" @keyup.enter.native="handleLogin" v-model="registerForm.password"
                   placeholder="请输入密码"></el-input>
       </el-form-item>
       <el-form-item prop="checkPassword">
         <span class="svg-container">
           <svg-icon icon-class="mima"></svg-icon>
         </span>
-        <el-input name="checkPassword" type="password" @keyup.enter.native="handleLogin" v-model="registerForm.checkPassword" autoComplete="on"
+        <el-input name="checkPassword" type="password" @keyup.enter.native="handleLogin" v-model="registerForm.checkPassword"
                   placeholder="请确认密码"></el-input>
       </el-form-item>
       <el-form-item>
@@ -44,6 +44,15 @@
         } else {
           callback();
         }
+      };
+      var checkUserName = (rule, value, callback) => {
+        LoginService.checkUserName(value).then((res) => {
+          if (!res) {
+            callback(new Error('账号已存在'));
+          } else {
+            callback();
+          }
+        });
       };
       var validatePass = (rule, value, callback) => {
         if (value === '') {
@@ -73,7 +82,8 @@
         },
         registerRules: {
           userName: [
-            { validator: validateName, trigger: 'blur' }
+            { validator: validateName, trigger: 'blur' },
+            { validator: checkUserName, trigger: 'blur' }
           ],
           password: [
             { validator: validatePass, trigger: 'blur' }
@@ -95,7 +105,11 @@
         this.$refs['registerForm'].validate((valid) => {
           if (valid) {
             LoginService.register(self['registerForm']).then((res) => {
-              debugger
+              self.$message({
+                message: '注册成功',
+                type: 'success'
+              });
+              self.$router.push({ path: '/' })
             });
           } else {
             console.log('error submit!!');

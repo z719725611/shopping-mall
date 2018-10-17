@@ -2,6 +2,7 @@ package com.zqb.controller;
 
 import com.zqb.bean.Account;
 import com.zqb.common.BaseException;
+import com.zqb.common.ReturnObject;
 import com.zqb.service.AccountService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,24 +37,26 @@ public class AccountController {
 
     @PostMapping("/register")
     @ResponseBody
-    public ModelAndView register(@RequestBody Account account) throws BaseException {
-        ModelAndView mv = new ModelAndView();
+    public ReturnObject register(@RequestBody Account account) throws BaseException {
+        ReturnObject ro = new ReturnObject();
         accountService.insertAccount(account);
-        return mv;
+        ro.setSuccess(Boolean.TRUE);
+        return ro;
     }
 
     @PostMapping("/checkAccount")
     @ResponseBody
-    public ModelAndView checkAccount(@RequestBody String userName) throws BaseException {
-        ModelAndView mv = new ModelAndView();
+    public ReturnObject checkAccount(@RequestBody String userName) throws BaseException {
+        ReturnObject ro = new ReturnObject();
         Account account = new Account(userName, null);
         Account account1 = accountService.findAccount(account);
         if (null == account1) {
-
+            ro.setData(Boolean.TRUE);
         } else {
-
+            ro.setData(Boolean.FALSE);
         }
-        return mv;
+        ro.setSuccess(Boolean.TRUE);
+        return ro;
     }
 
 }

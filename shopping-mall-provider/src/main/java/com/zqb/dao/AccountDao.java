@@ -40,6 +40,6 @@ public interface AccountDao {
      * @param account 账号
      * @throws BaseException
      */
-    @Select("select * from account where userName=#{userName} and (password=@password or @password='')")
+    @Select("select * from account where userName=#{userName}")
     Account findAccount(Account account) throws BaseException;
 }
