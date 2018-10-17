@@ -22,12 +22,12 @@ import org.springframework.stereotype.Service;
  */
 @Service("goodsService")
 public class GoodsServiceImpl implements GoodsService {
-    @Autowired
-    private GoodsDao goodsDao;
+//    @Autowired
+//    private GoodsDao goodsDao;
 
     @Override
     public int insertGoods(Goods goods) throws BaseException {
-        return goodsDao.insertGoods(goods);
+        return 0;
     }
 
     @Override

@@ -2,8 +2,6 @@ package com.zqb.dao;
 
 import com.zqb.bean.Goods;
 import com.zqb.common.BaseException;
-import org.apache.ibatis.annotations.Mapper;
-import org.springframework.stereotype.Repository;
 
 /**
  * Copyright © 2012-2050,dajia Co.,Ltd. All rights reserved.
@@ -18,8 +16,6 @@ import org.springframework.stereotype.Repository;
  * @author zengqb
  * @version 1.0
  */
-@Mapper
-@Repository
 public interface GoodsDao {
     /**
      * 新增商品信息

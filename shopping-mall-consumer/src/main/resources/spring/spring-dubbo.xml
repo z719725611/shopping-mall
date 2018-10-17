@@ -13,4 +13,5 @@
                     check="false"/>
 
     <dubbo:reference id="goodsService" interface="com.zqb.service.GoodsService"/>
+    <dubbo:reference id="accountService" interface="com.zqb.service.AccountService"/>
 </beans>

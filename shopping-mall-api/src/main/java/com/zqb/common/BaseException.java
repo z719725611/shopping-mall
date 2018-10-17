@@ -13,9 +13,9 @@ import java.util.*;
  * <p>
  * Description:
  * <p>
- * Created by lihuanzhong on 2018/7/25
+ * Created by zengqb on 2018/7/25
  *
- * @author lihuanzhong
+ * @author zengqb
  * @version 1.0
  */
 public class BaseException extends Exception {

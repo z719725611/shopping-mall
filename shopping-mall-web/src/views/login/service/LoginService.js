@@ -3,10 +3,14 @@ import Fetch from '../../../utils/Fetch';
 export const Register = '/account/register';
 
 export default {
-  register() {
+  register(registerForm) {
     return Fetch({
       url: Register,
-      method: 'get'
+      method: 'POST',
+      data: registerForm,
+      headers: {
+        'Content-Type': 'application/json'
+      }
     });
   }
 };

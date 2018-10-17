@@ -3,11 +3,11 @@
     <el-form autoComplete="on" label-position="left" label-width="0px" ref="registerForm" :rules="registerRules"
              class="card-box register-form" :model="registerForm">
       <h3 class="title">账号注册</h3>
-      <el-form-item prop="username">
+      <el-form-item prop="userName">
         <span class="svg-container svg-container_login">
           <svg-icon icon-class="zhanghao" />
         </span>
-        <el-input name="username" type="text" v-model="registerForm.username" autoComplete="on" placeholder="请输入用户名" />
+        <el-input name="userName" type="text" v-model="registerForm.userName" autoComplete="on" placeholder="请输入用户名" />
       </el-form-item>
       <el-form-item prop="password">
         <span class="svg-container">
@@ -67,12 +67,12 @@
 
       return {
         registerForm: {
-          username: '',
+          userName: '',
           password: '',
           checkPassword: ''
         },
         registerRules: {
-          username: [
+          userName: [
             { validator: validateName, trigger: 'blur' }
           ],
           password: [
