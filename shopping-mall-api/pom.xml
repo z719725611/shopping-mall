@@ -11,5 +11,9 @@
 
     <artifactId>shopping-mall-api</artifactId>
 
+    <dependencies>
+
+    </dependencies>
+
 
 </project>

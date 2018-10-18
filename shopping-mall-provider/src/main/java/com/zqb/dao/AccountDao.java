@@ -40,6 +40,11 @@ public interface AccountDao {
      * @param account 账号
      * @throws BaseException
      */
-    @Select("select * from account where userName=#{userName}")
+    @Select({"<script>",
+            "select * from account where userName=#{userName}",
+            "<when test='password!=null'>",
+            "AND password = #{password}",
+            "</when>",
+            "</script>"})
     Account findAccount(Account account) throws BaseException;
 }

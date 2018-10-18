@@ -2,6 +2,7 @@ package com.zqb.service.impl;
 
 import com.zqb.bean.Account;
 import com.zqb.common.BaseException;
+import com.zqb.common.MD5Util;
 import com.zqb.dao.AccountDao;
 import com.zqb.service.AccountService;
 import org.apache.log4j.Logger;
@@ -35,6 +36,7 @@ public class AccountServiceImpl implements AccountService {
     public void insertAccount(Account account) throws BaseException {
         if (null != account) {
             account.setCreateTime(new Timestamp(System.currentTimeMillis()));
+            account.setPassword(MD5Util.encrypt(account.getPassword()));
             accountDao.insertAccount(account);
         } else {
             logger.error("Account为空,新增账号失败!");
